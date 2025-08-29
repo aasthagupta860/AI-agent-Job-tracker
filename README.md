@@ -62,6 +62,6 @@ Through this project, I practiced:
 
 ---
 
-## 🔹 Contact
-👩‍💻 Aastha Gupta 
-📧 aasthagupta860@gmail.com  
+##  Contact
+Aastha Gupta 
+aasthagupta860@gmail.com  
